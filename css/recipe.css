@@ -1,0 +1,39 @@
+
+body{
+ 
+    background-image: url("/images/recipeImages/silverware.jpg");
+    background-color: #cccc;
+    color:rgb(64,64,64);
+    font-size: 11pt;
+    font-family: Georgia,Garamond;
+}
+
+
+h1,h2 {
+
+
+    text-decoration: underline;
+    background-color:rgb(240, 240, 240);
+    color: rgb(164, 164, 0);
+    font-family: lucida Sans Unicode,Helvetica,Arial, sans-serif;
+     
+    
+}
+
+ul.customIcon{
+    list-style-image: url("/images/recipeImages/pie_icon.gif");
+}
+             
+
+
+div.ad > pre{
+    background-color: rgb(218, 218, 88);
+}
+
+
+
+footer > ol{
+    list-style-type: none;
+    text-indent: -2.5em;
+    color: rgb(164, 164, 0);
+}
