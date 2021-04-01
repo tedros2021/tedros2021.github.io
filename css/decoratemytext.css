@@ -1,0 +1,22 @@
+
+.textAreaChanged{
+    font-size: 2em;
+}
+.myLegend{
+    font-weight: bold;
+}
+
+.myCheckBox{
+     text-decoration: underline;
+     color: green;
+     font-weight: bold;
+     background-image: url("/images/100.jpg");
+}
+.none{
+    text-decoration: none;
+    color: auto;
+    font-weight: auto;
+}
+.myBody{
+    background-image: url(/images/100.jpg);
+}
